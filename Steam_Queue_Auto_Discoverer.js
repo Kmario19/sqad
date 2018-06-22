@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name    	Steam Queue Auto Discoverer
+// @name        Steam Queue Auto Discoverer
 // @author      Kmario19
-// @version		1.0.1
-// @description	Discover the Steam queue three times to get the sale cards
-// @match		https://store.steampowered.com/explore/
+// @version     1.0.1
+// @description Descubre el explorador de Steam tres veces para obtener cromos del evento
+// @namespace   https://github.com/Kmario19
+// @match       https://store.steampowered.com/explore/
 // @updateURL   https://github.com/Kmario19/sqad/blob/master/Steam_Queue_Auto_Discoverer.js
 // @downloadURL https://github.com/Kmario19/sqad/blob/master/Steam_Queue_Auto_Discoverer.js
-// @grant		none
+// @grant       none
 // ==/UserScript==
 
 var n = 3;
